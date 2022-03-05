@@ -1,0 +1,10 @@
+name: Test2
+version: '${project.version}'
+main: casper.plugin.test2
+api-version: 1.15
+author: casper
+description: develop by casper
+commands:
+  설명서:
+    description: 명령어 설명
+    usage: /설명서
